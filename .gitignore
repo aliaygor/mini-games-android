@@ -1,0 +1,10 @@
+.gradle/
+.idea/
+local.properties
+**/build/
+*.jks
+*.keystore
+.kotlin/
+google-services.json
+backend/.env*
+backend/node_modules/

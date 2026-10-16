@@ -1,0 +1,1 @@
+<resources><style name="Theme.MiniGames.Base" parent="android:style/Theme.Material.NoActionBar"><item name="android:fontFamily">sans</item><item name="android:windowLightStatusBar">false</item><item name="android:windowBackground">#101126</item><item name="android:colorAccent">#BEFF74</item></style><style name="Theme.MiniGames" parent="Theme.MiniGames.Base"/></resources>

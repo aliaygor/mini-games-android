@@ -1,0 +1,3594 @@
+[
+  {
+    "cars": [
+      {
+        "id": 0,
+        "x": 0,
+        "y": 2,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 1,
+        "x": 2,
+        "y": 2,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 2,
+        "x": 0,
+        "y": 4,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 3,
+        "x": 3,
+        "y": 2,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 4,
+        "x": 1,
+        "y": 1,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 5,
+        "x": 4,
+        "y": 1,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 6,
+        "x": 4,
+        "y": 5,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 7,
+        "x": 1,
+        "y": 5,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 8,
+        "x": 3,
+        "y": 0,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 9,
+        "x": 5,
+        "y": 1,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 10,
+        "x": 4,
+        "y": 0,
+        "length": 2,
+        "horizontal": true
+      }
+    ],
+    "optimal": 10,
+    "route": [
+      [
+        1,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        9,
+        1
+      ],
+      [
+        9,
+        1
+      ],
+      [
+        0,
+        1
+      ]
+    ]
+  },
+  {
+    "cars": [
+      {
+        "id": 0,
+        "x": 0,
+        "y": 2,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 1,
+        "x": 5,
+        "y": 0,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 2,
+        "x": 1,
+        "y": 3,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 3,
+        "x": 3,
+        "y": 4,
+        "length": 3,
+        "horizontal": true
+      },
+      {
+        "id": 4,
+        "x": 1,
+        "y": 4,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 5,
+        "x": 4,
+        "y": 2,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 6,
+        "x": 1,
+        "y": 0,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 7,
+        "x": 0,
+        "y": 0,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 8,
+        "x": 0,
+        "y": 3,
+        "length": 3,
+        "horizontal": false
+      },
+      {
+        "id": 9,
+        "x": 3,
+        "y": 2,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 10,
+        "x": 5,
+        "y": 2,
+        "length": 2,
+        "horizontal": false
+      }
+    ],
+    "optimal": 10,
+    "route": [
+      [
+        0,
+        1
+      ],
+      [
+        3,
+        -1
+      ],
+      [
+        5,
+        -1
+      ],
+      [
+        5,
+        -1
+      ],
+      [
+        9,
+        -1
+      ],
+      [
+        9,
+        -1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        10,
+        1
+      ],
+      [
+        0,
+        1
+      ]
+    ]
+  },
+  {
+    "cars": [
+      {
+        "id": 0,
+        "x": 0,
+        "y": 2,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 1,
+        "x": 3,
+        "y": 0,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 2,
+        "x": 4,
+        "y": 1,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 3,
+        "x": 3,
+        "y": 5,
+        "length": 3,
+        "horizontal": true
+      },
+      {
+        "id": 4,
+        "x": 3,
+        "y": 4,
+        "length": 3,
+        "horizontal": true
+      },
+      {
+        "id": 5,
+        "x": 0,
+        "y": 1,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 6,
+        "x": 2,
+        "y": 3,
+        "length": 3,
+        "horizontal": true
+      },
+      {
+        "id": 7,
+        "x": 5,
+        "y": 2,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 8,
+        "x": 3,
+        "y": 1,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 9,
+        "x": 0,
+        "y": 4,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 10,
+        "x": 5,
+        "y": 0,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 11,
+        "x": 1,
+        "y": 4,
+        "length": 2,
+        "horizontal": false
+      }
+    ],
+    "optimal": 10,
+    "route": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        -1
+      ],
+      [
+        1,
+        -1
+      ],
+      [
+        2,
+        -1
+      ],
+      [
+        4,
+        -1
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        8,
+        -1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ]
+    ]
+  },
+  {
+    "cars": [
+      {
+        "id": 0,
+        "x": 0,
+        "y": 2,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 1,
+        "x": 4,
+        "y": 4,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 2,
+        "x": 1,
+        "y": 4,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 3,
+        "x": 3,
+        "y": 2,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 4,
+        "x": 2,
+        "y": 2,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 5,
+        "x": 4,
+        "y": 5,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 6,
+        "x": 0,
+        "y": 5,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 7,
+        "x": 1,
+        "y": 0,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 8,
+        "x": 0,
+        "y": 3,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 9,
+        "x": 2,
+        "y": 0,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 10,
+        "x": 3,
+        "y": 4,
+        "length": 2,
+        "horizontal": false
+      }
+    ],
+    "optimal": 10,
+    "route": [
+      [
+        3,
+        -1
+      ],
+      [
+        4,
+        -1
+      ],
+      [
+        9,
+        1
+      ],
+      [
+        4,
+        -1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        9,
+        1
+      ],
+      [
+        3,
+        -1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ]
+    ]
+  },
+  {
+    "cars": [
+      {
+        "id": 0,
+        "x": 0,
+        "y": 2,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 1,
+        "x": 2,
+        "y": 4,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 2,
+        "x": 2,
+        "y": 2,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 3,
+        "x": 1,
+        "y": 5,
+        "length": 3,
+        "horizontal": true
+      },
+      {
+        "id": 4,
+        "x": 4,
+        "y": 5,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 5,
+        "x": 0,
+        "y": 1,
+        "length": 3,
+        "horizontal": true
+      },
+      {
+        "id": 6,
+        "x": 3,
+        "y": 0,
+        "length": 3,
+        "horizontal": true
+      },
+      {
+        "id": 7,
+        "x": 3,
+        "y": 3,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 8,
+        "x": 3,
+        "y": 1,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 9,
+        "x": 4,
+        "y": 1,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 10,
+        "x": 1,
+        "y": 3,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 11,
+        "x": 0,
+        "y": 4,
+        "length": 2,
+        "horizontal": false
+      }
+    ],
+    "optimal": 10,
+    "route": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ]
+    ]
+  },
+  {
+    "cars": [
+      {
+        "id": 0,
+        "x": 0,
+        "y": 2,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 1,
+        "x": 2,
+        "y": 3,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 2,
+        "x": 2,
+        "y": 5,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 3,
+        "x": 1,
+        "y": 3,
+        "length": 3,
+        "horizontal": false
+      },
+      {
+        "id": 4,
+        "x": 0,
+        "y": 3,
+        "length": 3,
+        "horizontal": false
+      },
+      {
+        "id": 5,
+        "x": 2,
+        "y": 0,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 6,
+        "x": 3,
+        "y": 1,
+        "length": 3,
+        "horizontal": false
+      },
+      {
+        "id": 7,
+        "x": 0,
+        "y": 0,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 8,
+        "x": 4,
+        "y": 2,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 9,
+        "x": 2,
+        "y": 1,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 10,
+        "x": 4,
+        "y": 1,
+        "length": 2,
+        "horizontal": true
+      }
+    ],
+    "optimal": 11,
+    "route": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        9,
+        -1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ]
+    ]
+  },
+  {
+    "cars": [
+      {
+        "id": 0,
+        "x": 1,
+        "y": 2,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 1,
+        "x": 4,
+        "y": 4,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 2,
+        "x": 0,
+        "y": 0,
+        "length": 3,
+        "horizontal": false
+      },
+      {
+        "id": 3,
+        "x": 0,
+        "y": 5,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 4,
+        "x": 4,
+        "y": 1,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 5,
+        "x": 2,
+        "y": 5,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 6,
+        "x": 3,
+        "y": 1,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 7,
+        "x": 0,
+        "y": 4,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 8,
+        "x": 0,
+        "y": 3,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 9,
+        "x": 4,
+        "y": 0,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 10,
+        "x": 4,
+        "y": 2,
+        "length": 2,
+        "horizontal": false
+      }
+    ],
+    "optimal": 11,
+    "route": [
+      [
+        6,
+        1
+      ],
+      [
+        4,
+        -1
+      ],
+      [
+        4,
+        -1
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        9,
+        -1
+      ],
+      [
+        9,
+        -1
+      ],
+      [
+        10,
+        -1
+      ],
+      [
+        10,
+        -1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ]
+    ]
+  },
+  {
+    "cars": [
+      {
+        "id": 0,
+        "x": 0,
+        "y": 2,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 1,
+        "x": 0,
+        "y": 3,
+        "length": 3,
+        "horizontal": false
+      },
+      {
+        "id": 2,
+        "x": 2,
+        "y": 1,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 3,
+        "x": 1,
+        "y": 3,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 4,
+        "x": 1,
+        "y": 5,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 5,
+        "x": 1,
+        "y": 0,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 6,
+        "x": 3,
+        "y": 2,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 7,
+        "x": 3,
+        "y": 4,
+        "length": 3,
+        "horizontal": true
+      },
+      {
+        "id": 8,
+        "x": 2,
+        "y": 0,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 9,
+        "x": 0,
+        "y": 0,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 10,
+        "x": 2,
+        "y": 2,
+        "length": 2,
+        "horizontal": false
+      }
+    ],
+    "optimal": 11,
+    "route": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        6,
+        -1
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        6,
+        -1
+      ],
+      [
+        10,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ]
+    ]
+  },
+  {
+    "cars": [
+      {
+        "id": 0,
+        "x": 0,
+        "y": 2,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 1,
+        "x": 2,
+        "y": 2,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 2,
+        "x": 0,
+        "y": 3,
+        "length": 3,
+        "horizontal": false
+      },
+      {
+        "id": 3,
+        "x": 4,
+        "y": 3,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 4,
+        "x": 5,
+        "y": 0,
+        "length": 3,
+        "horizontal": false
+      },
+      {
+        "id": 5,
+        "x": 4,
+        "y": 0,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 6,
+        "x": 2,
+        "y": 4,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 7,
+        "x": 3,
+        "y": 0,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 8,
+        "x": 3,
+        "y": 2,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 9,
+        "x": 0,
+        "y": 0,
+        "length": 2,
+        "horizontal": true
+      }
+    ],
+    "optimal": 12,
+    "route": [
+      [
+        1,
+        -1
+      ],
+      [
+        1,
+        -1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        3,
+        -1
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        0,
+        1
+      ]
+    ]
+  },
+  {
+    "cars": [
+      {
+        "id": 0,
+        "x": 1,
+        "y": 2,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 1,
+        "x": 5,
+        "y": 4,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 2,
+        "x": 4,
+        "y": 4,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 3,
+        "x": 2,
+        "y": 0,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 4,
+        "x": 0,
+        "y": 1,
+        "length": 3,
+        "horizontal": false
+      },
+      {
+        "id": 5,
+        "x": 1,
+        "y": 3,
+        "length": 3,
+        "horizontal": false
+      },
+      {
+        "id": 6,
+        "x": 2,
+        "y": 5,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 7,
+        "x": 3,
+        "y": 0,
+        "length": 3,
+        "horizontal": false
+      },
+      {
+        "id": 8,
+        "x": 5,
+        "y": 2,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 9,
+        "x": 0,
+        "y": 4,
+        "length": 2,
+        "horizontal": false
+      }
+    ],
+    "optimal": 12,
+    "route": [
+      [
+        2,
+        -1
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        8,
+        -1
+      ],
+      [
+        1,
+        -1
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        8,
+        -1
+      ],
+      [
+        0,
+        1
+      ]
+    ]
+  },
+  {
+    "cars": [
+      {
+        "id": 0,
+        "x": 0,
+        "y": 2,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 1,
+        "x": 2,
+        "y": 4,
+        "length": 3,
+        "horizontal": true
+      },
+      {
+        "id": 2,
+        "x": 4,
+        "y": 2,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 3,
+        "x": 0,
+        "y": 3,
+        "length": 3,
+        "horizontal": false
+      },
+      {
+        "id": 4,
+        "x": 1,
+        "y": 4,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 5,
+        "x": 1,
+        "y": 3,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 6,
+        "x": 2,
+        "y": 5,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 7,
+        "x": 0,
+        "y": 0,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 8,
+        "x": 2,
+        "y": 0,
+        "length": 3,
+        "horizontal": false
+      },
+      {
+        "id": 9,
+        "x": 0,
+        "y": 1,
+        "length": 2,
+        "horizontal": true
+      }
+    ],
+    "optimal": 13,
+    "route": [
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        -1
+      ],
+      [
+        2,
+        -1
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ]
+    ]
+  },
+  {
+    "cars": [
+      {
+        "id": 0,
+        "x": 0,
+        "y": 2,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 1,
+        "x": 2,
+        "y": 0,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 2,
+        "x": 3,
+        "y": 2,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 3,
+        "x": 3,
+        "y": 4,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 4,
+        "x": 0,
+        "y": 5,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 5,
+        "x": 1,
+        "y": 0,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 6,
+        "x": 5,
+        "y": 2,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 7,
+        "x": 3,
+        "y": 1,
+        "length": 3,
+        "horizontal": true
+      },
+      {
+        "id": 8,
+        "x": 0,
+        "y": 0,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 9,
+        "x": 4,
+        "y": 0,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 10,
+        "x": 5,
+        "y": 4,
+        "length": 2,
+        "horizontal": false
+      }
+    ],
+    "optimal": 13,
+    "route": [
+      [
+        0,
+        1
+      ],
+      [
+        3,
+        -1
+      ],
+      [
+        3,
+        -1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        1,
+        -1
+      ],
+      [
+        7,
+        -1
+      ],
+      [
+        6,
+        -1
+      ],
+      [
+        9,
+        -1
+      ],
+      [
+        6,
+        -1
+      ],
+      [
+        0,
+        1
+      ]
+    ]
+  },
+  {
+    "cars": [
+      {
+        "id": 0,
+        "x": 0,
+        "y": 2,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 1,
+        "x": 1,
+        "y": 3,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 2,
+        "x": 2,
+        "y": 4,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 3,
+        "x": 1,
+        "y": 1,
+        "length": 3,
+        "horizontal": true
+      },
+      {
+        "id": 4,
+        "x": 3,
+        "y": 5,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 5,
+        "x": 2,
+        "y": 2,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 6,
+        "x": 0,
+        "y": 0,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 7,
+        "x": 0,
+        "y": 3,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 8,
+        "x": 0,
+        "y": 5,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 9,
+        "x": 5,
+        "y": 0,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 10,
+        "x": 3,
+        "y": 2,
+        "length": 3,
+        "horizontal": false
+      }
+    ],
+    "optimal": 13,
+    "route": [
+      [
+        3,
+        1
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        9,
+        1
+      ],
+      [
+        9,
+        1
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        5,
+        -1
+      ],
+      [
+        5,
+        -1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        9,
+        1
+      ],
+      [
+        10,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ]
+    ]
+  },
+  {
+    "cars": [
+      {
+        "id": 0,
+        "x": 0,
+        "y": 2,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 1,
+        "x": 3,
+        "y": 0,
+        "length": 3,
+        "horizontal": false
+      },
+      {
+        "id": 2,
+        "x": 4,
+        "y": 2,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 3,
+        "x": 2,
+        "y": 1,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 4,
+        "x": 0,
+        "y": 3,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 5,
+        "x": 5,
+        "y": 2,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 6,
+        "x": 0,
+        "y": 0,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 7,
+        "x": 2,
+        "y": 3,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 8,
+        "x": 1,
+        "y": 0,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 9,
+        "x": 4,
+        "y": 1,
+        "length": 2,
+        "horizontal": true
+      }
+    ],
+    "optimal": 13,
+    "route": [
+      [
+        2,
+        1
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        7,
+        -1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        3,
+        -1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ]
+    ]
+  },
+  {
+    "cars": [
+      {
+        "id": 0,
+        "x": 0,
+        "y": 2,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 1,
+        "x": 0,
+        "y": 3,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 2,
+        "x": 0,
+        "y": 1,
+        "length": 3,
+        "horizontal": true
+      },
+      {
+        "id": 3,
+        "x": 3,
+        "y": 0,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 4,
+        "x": 5,
+        "y": 2,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 5,
+        "x": 2,
+        "y": 4,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 6,
+        "x": 3,
+        "y": 2,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 7,
+        "x": 3,
+        "y": 5,
+        "length": 3,
+        "horizontal": true
+      },
+      {
+        "id": 8,
+        "x": 0,
+        "y": 5,
+        "length": 3,
+        "horizontal": true
+      },
+      {
+        "id": 9,
+        "x": 4,
+        "y": 0,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 10,
+        "x": 0,
+        "y": 4,
+        "length": 2,
+        "horizontal": true
+      }
+    ],
+    "optimal": 14,
+    "route": [
+      [
+        0,
+        1
+      ],
+      [
+        4,
+        -1
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        9,
+        -1
+      ],
+      [
+        4,
+        -1
+      ],
+      [
+        9,
+        -1
+      ],
+      [
+        9,
+        -1
+      ],
+      [
+        3,
+        -1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ]
+    ]
+  },
+  {
+    "cars": [
+      {
+        "id": 0,
+        "x": 0,
+        "y": 2,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 1,
+        "x": 2,
+        "y": 3,
+        "length": 3,
+        "horizontal": false
+      },
+      {
+        "id": 2,
+        "x": 3,
+        "y": 4,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 3,
+        "x": 2,
+        "y": 1,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 4,
+        "x": 1,
+        "y": 3,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 5,
+        "x": 3,
+        "y": 2,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 6,
+        "x": 4,
+        "y": 0,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 7,
+        "x": 2,
+        "y": 0,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 8,
+        "x": 1,
+        "y": 0,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 9,
+        "x": 0,
+        "y": 0,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 10,
+        "x": 5,
+        "y": 0,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 11,
+        "x": 0,
+        "y": 5,
+        "length": 2,
+        "horizontal": true
+      }
+    ],
+    "optimal": 15,
+    "route": [
+      [
+        5,
+        -1
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        3,
+        -1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        10,
+        1
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        5,
+        -1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        10,
+        1
+      ],
+      [
+        10,
+        1
+      ],
+      [
+        0,
+        1
+      ]
+    ]
+  },
+  {
+    "cars": [
+      {
+        "id": 0,
+        "x": 0,
+        "y": 2,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 1,
+        "x": 2,
+        "y": 0,
+        "length": 3,
+        "horizontal": false
+      },
+      {
+        "id": 2,
+        "x": 4,
+        "y": 1,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 3,
+        "x": 4,
+        "y": 4,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 4,
+        "x": 0,
+        "y": 0,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 5,
+        "x": 5,
+        "y": 4,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 6,
+        "x": 1,
+        "y": 3,
+        "length": 3,
+        "horizontal": false
+      },
+      {
+        "id": 7,
+        "x": 4,
+        "y": 2,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 8,
+        "x": 2,
+        "y": 5,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 9,
+        "x": 5,
+        "y": 2,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 10,
+        "x": 0,
+        "y": 3,
+        "length": 3,
+        "horizontal": false
+      },
+      {
+        "id": 11,
+        "x": 3,
+        "y": 0,
+        "length": 2,
+        "horizontal": false
+      }
+    ],
+    "optimal": 18,
+    "route": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        11,
+        1
+      ],
+      [
+        11,
+        1
+      ],
+      [
+        2,
+        -1
+      ],
+      [
+        2,
+        -1
+      ],
+      [
+        7,
+        -1
+      ],
+      [
+        3,
+        -1
+      ],
+      [
+        7,
+        -1
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        9,
+        -1
+      ],
+      [
+        9,
+        -1
+      ],
+      [
+        11,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ]
+    ]
+  },
+  {
+    "cars": [
+      {
+        "id": 0,
+        "x": 0,
+        "y": 2,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 1,
+        "x": 1,
+        "y": 1,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 2,
+        "x": 3,
+        "y": 0,
+        "length": 3,
+        "horizontal": false
+      },
+      {
+        "id": 3,
+        "x": 0,
+        "y": 0,
+        "length": 3,
+        "horizontal": true
+      },
+      {
+        "id": 4,
+        "x": 2,
+        "y": 3,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 5,
+        "x": 4,
+        "y": 4,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 6,
+        "x": 5,
+        "y": 2,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 7,
+        "x": 4,
+        "y": 5,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 8,
+        "x": 4,
+        "y": 1,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 9,
+        "x": 4,
+        "y": 2,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 10,
+        "x": 0,
+        "y": 3,
+        "length": 2,
+        "horizontal": true
+      }
+    ],
+    "optimal": 19,
+    "route": [
+      [
+        0,
+        1
+      ],
+      [
+        5,
+        -1
+      ],
+      [
+        5,
+        -1
+      ],
+      [
+        5,
+        -1
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        7,
+        -1
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        7,
+        -1
+      ],
+      [
+        7,
+        -1
+      ],
+      [
+        9,
+        1
+      ],
+      [
+        9,
+        1
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ]
+    ]
+  },
+  {
+    "cars": [
+      {
+        "id": 0,
+        "x": 1,
+        "y": 2,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 1,
+        "x": 0,
+        "y": 2,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 2,
+        "x": 1,
+        "y": 0,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 3,
+        "x": 4,
+        "y": 5,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 4,
+        "x": 4,
+        "y": 0,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 5,
+        "x": 3,
+        "y": 3,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 6,
+        "x": 2,
+        "y": 3,
+        "length": 3,
+        "horizontal": false
+      },
+      {
+        "id": 7,
+        "x": 2,
+        "y": 0,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 8,
+        "x": 3,
+        "y": 0,
+        "length": 3,
+        "horizontal": false
+      },
+      {
+        "id": 9,
+        "x": 0,
+        "y": 4,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 10,
+        "x": 5,
+        "y": 3,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 11,
+        "x": 5,
+        "y": 1,
+        "length": 2,
+        "horizontal": false
+      }
+    ],
+    "optimal": 20,
+    "route": [
+      [
+        1,
+        -1
+      ],
+      [
+        1,
+        -1
+      ],
+      [
+        0,
+        -1
+      ],
+      [
+        3,
+        -1
+      ],
+      [
+        6,
+        -1
+      ],
+      [
+        3,
+        -1
+      ],
+      [
+        3,
+        -1
+      ],
+      [
+        3,
+        -1
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        10,
+        1
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        4,
+        -1
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        11,
+        -1
+      ],
+      [
+        0,
+        1
+      ]
+    ]
+  },
+  {
+    "cars": [
+      {
+        "id": 0,
+        "x": 0,
+        "y": 2,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 1,
+        "x": 1,
+        "y": 4,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 2,
+        "x": 1,
+        "y": 5,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 3,
+        "x": 1,
+        "y": 0,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 4,
+        "x": 3,
+        "y": 1,
+        "length": 3,
+        "horizontal": false
+      },
+      {
+        "id": 5,
+        "x": 0,
+        "y": 3,
+        "length": 3,
+        "horizontal": false
+      },
+      {
+        "id": 6,
+        "x": 5,
+        "y": 4,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 7,
+        "x": 4,
+        "y": 3,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 8,
+        "x": 3,
+        "y": 4,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 9,
+        "x": 2,
+        "y": 0,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 10,
+        "x": 2,
+        "y": 2,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 11,
+        "x": 3,
+        "y": 5,
+        "length": 2,
+        "horizontal": true
+      }
+    ],
+    "optimal": 21,
+    "route": [
+      [
+        9,
+        1
+      ],
+      [
+        9,
+        1
+      ],
+      [
+        4,
+        -1
+      ],
+      [
+        7,
+        -1
+      ],
+      [
+        6,
+        -1
+      ],
+      [
+        6,
+        -1
+      ],
+      [
+        6,
+        -1
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        9,
+        -1
+      ],
+      [
+        6,
+        -1
+      ],
+      [
+        10,
+        -1
+      ],
+      [
+        10,
+        -1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        11,
+        1
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ]
+    ]
+  },
+  {
+    "cars": [
+      {
+        "id": 0,
+        "x": 1,
+        "y": 2,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 1,
+        "x": 2,
+        "y": 5,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 2,
+        "x": 4,
+        "y": 1,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 3,
+        "x": 0,
+        "y": 0,
+        "length": 3,
+        "horizontal": false
+      },
+      {
+        "id": 4,
+        "x": 3,
+        "y": 1,
+        "length": 3,
+        "horizontal": false
+      },
+      {
+        "id": 5,
+        "x": 5,
+        "y": 2,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 6,
+        "x": 1,
+        "y": 0,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 7,
+        "x": 3,
+        "y": 0,
+        "length": 3,
+        "horizontal": true
+      },
+      {
+        "id": 8,
+        "x": 0,
+        "y": 5,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 9,
+        "x": 2,
+        "y": 3,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 10,
+        "x": 3,
+        "y": 4,
+        "length": 3,
+        "horizontal": true
+      }
+    ],
+    "optimal": 25,
+    "route": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        6,
+        -1
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        0,
+        -1
+      ],
+      [
+        9,
+        -1
+      ],
+      [
+        9,
+        -1
+      ],
+      [
+        9,
+        -1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        3,
+        -1
+      ],
+      [
+        3,
+        -1
+      ],
+      [
+        10,
+        -1
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        10,
+        -1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        10,
+        -1
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ]
+    ]
+  },
+  {
+    "cars": [
+      {
+        "id": 0,
+        "x": 1,
+        "y": 2,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 1,
+        "x": 0,
+        "y": 3,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 2,
+        "x": 0,
+        "y": 1,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 3,
+        "x": 4,
+        "y": 0,
+        "length": 3,
+        "horizontal": false
+      },
+      {
+        "id": 4,
+        "x": 1,
+        "y": 4,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 5,
+        "x": 1,
+        "y": 1,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 6,
+        "x": 2,
+        "y": 3,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 7,
+        "x": 4,
+        "y": 4,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 8,
+        "x": 1,
+        "y": 0,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 9,
+        "x": 3,
+        "y": 2,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 10,
+        "x": 2,
+        "y": 5,
+        "length": 3,
+        "horizontal": true
+      }
+    ],
+    "optimal": 26,
+    "route": [
+      [
+        2,
+        -1
+      ],
+      [
+        0,
+        -1
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        6,
+        -1
+      ],
+      [
+        7,
+        -1
+      ],
+      [
+        7,
+        -1
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        6,
+        -1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        6,
+        -1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        9,
+        -1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        4,
+        -1
+      ],
+      [
+        9,
+        -1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        10,
+        -1
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ]
+    ]
+  },
+  {
+    "cars": [
+      {
+        "id": 0,
+        "x": 0,
+        "y": 2,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 1,
+        "x": 1,
+        "y": 5,
+        "length": 3,
+        "horizontal": true
+      },
+      {
+        "id": 2,
+        "x": 4,
+        "y": 0,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 3,
+        "x": 2,
+        "y": 0,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 4,
+        "x": 2,
+        "y": 1,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 5,
+        "x": 0,
+        "y": 4,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 6,
+        "x": 1,
+        "y": 4,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 7,
+        "x": 1,
+        "y": 0,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 8,
+        "x": 4,
+        "y": 5,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 9,
+        "x": 0,
+        "y": 3,
+        "length": 3,
+        "horizontal": true
+      },
+      {
+        "id": 10,
+        "x": 3,
+        "y": 2,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 11,
+        "x": 3,
+        "y": 1,
+        "length": 2,
+        "horizontal": true
+      }
+    ],
+    "optimal": 34,
+    "route": [
+      [
+        6,
+        1
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        11,
+        1
+      ],
+      [
+        10,
+        -1
+      ],
+      [
+        9,
+        1
+      ],
+      [
+        5,
+        -1
+      ],
+      [
+        1,
+        -1
+      ],
+      [
+        9,
+        1
+      ],
+      [
+        9,
+        1
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        5,
+        -1
+      ],
+      [
+        5,
+        -1
+      ],
+      [
+        5,
+        -1
+      ],
+      [
+        0,
+        -1
+      ],
+      [
+        4,
+        -1
+      ],
+      [
+        4,
+        -1
+      ],
+      [
+        9,
+        -1
+      ],
+      [
+        9,
+        -1
+      ],
+      [
+        9,
+        -1
+      ],
+      [
+        10,
+        1
+      ],
+      [
+        10,
+        1
+      ],
+      [
+        10,
+        1
+      ],
+      [
+        9,
+        1
+      ],
+      [
+        9,
+        1
+      ],
+      [
+        9,
+        1
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ]
+    ]
+  },
+  {
+    "cars": [
+      {
+        "id": 0,
+        "x": 0,
+        "y": 2,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 1,
+        "x": 3,
+        "y": 1,
+        "length": 3,
+        "horizontal": false
+      },
+      {
+        "id": 2,
+        "x": 2,
+        "y": 2,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 3,
+        "x": 0,
+        "y": 5,
+        "length": 3,
+        "horizontal": true
+      },
+      {
+        "id": 4,
+        "x": 0,
+        "y": 3,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 5,
+        "x": 0,
+        "y": 0,
+        "length": 3,
+        "horizontal": true
+      },
+      {
+        "id": 6,
+        "x": 4,
+        "y": 3,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 7,
+        "x": 4,
+        "y": 1,
+        "length": 2,
+        "horizontal": false
+      },
+      {
+        "id": 8,
+        "x": 4,
+        "y": 0,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 9,
+        "x": 1,
+        "y": 1,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 10,
+        "x": 3,
+        "y": 4,
+        "length": 2,
+        "horizontal": true
+      },
+      {
+        "id": 11,
+        "x": 5,
+        "y": 1,
+        "length": 2,
+        "horizontal": false
+      }
+    ],
+    "optimal": 36,
+    "route": [
+      [
+        1,
+        -1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        4,
+        -1
+      ],
+      [
+        4,
+        -1
+      ],
+      [
+        6,
+        -1
+      ],
+      [
+        6,
+        -1
+      ],
+      [
+        6,
+        -1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        4,
+        -1
+      ],
+      [
+        0,
+        -1
+      ],
+      [
+        6,
+        -1
+      ],
+      [
+        2,
+        -1
+      ],
+      [
+        2,
+        -1
+      ],
+      [
+        3,
+        -1
+      ],
+      [
+        3,
+        -1
+      ],
+      [
+        3,
+        -1
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        10,
+        -1
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        10,
+        -1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        10,
+        -1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        11,
+        1
+      ],
+      [
+        11,
+        1
+      ],
+      [
+        0,
+        1
+      ]
+    ]
+  }
+]

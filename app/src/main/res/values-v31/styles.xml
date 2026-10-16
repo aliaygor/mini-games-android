@@ -1,0 +1,2 @@
+<resources><style name="Theme.MiniGames" parent="Theme.MiniGames.Base"><item name="android:windowSplashScreenBackground">#101126</item><item name="android:windowSplashScreenAnimatedIcon">@drawable/competitive_foreground</item><item name="android:windowLightStatusBar">false</item></style></resources>
+
